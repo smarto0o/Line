@@ -442,7 +442,7 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("<=[BotTobyDanFidho]>=>")
+      print("<=[Smarto0o]>=>")
       print("mid        :" + prof.mid)
       print("name       : " + prof.displayName)
       print("authToken  : " + self.authToken)
