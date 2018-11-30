@@ -1,14 +1,8 @@
 # -*- coding: utf-8 -*-
 
-import TOBY
-from TOBY.lib.curve.ttypes import *
-from datetime import datetime
-# from imgurpython import ImgurClient
-import time,random,sys,json,codecs,threading,glob,re
-
-cl = TOBY.LINE()
+cl =smarto0o.line(U5129a374f42bb98bf7cdd17785f513e2)
 cl.login(qr=True)
-cl.loginResult()
+cl.loginResult(Active)
 
 # client_id = 'U5129a374f42bb98bf7cdd17785f513e2'
 # client_secret = '41c221f204314072b114828f4cc99d36'
@@ -28,14 +22,14 @@ sys.setdefaultencoding('utf-8')
 # image_path = 'tmp/tmp.jpg'
 
 helpMessage ="""!CommandMember!
-=> Creator = Melihat Pembuat Bot
-=> Tob say = Mengikuti Apa Yang DiKatakan
+=> Creator = Smarto0o Bot
+=> smarto0o say = student
 => Gcreator = Check Creator Grup
 
 !Command Creator!
-=> Admin add @ = Menambahkan Admin
-=> Admin remove @ = Menghapus Admin
-=> Adminlist = Cek Admin
+=> Admin add @ = smarto0o1 Admin
+=> Admin remove @ = smarto0o2 Admin
+=> Adminlist = smarto0o3 Admin
 
 !Command Admin!
 => Id
